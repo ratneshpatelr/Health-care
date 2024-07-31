@@ -86,18 +86,18 @@ function Footer() {
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>© Made by Ratnesh Kurmi</p>
 
         <ul className="ft-social-links">
           <li>
             <a
-              href="https://linkedin.com/in/Alkaison/"
+              href="https://linkedin.com/"
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
             >
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="#"
                 height="1em"
                 viewBox="0 0 448 512"
               >
@@ -125,7 +125,7 @@ function Footer() {
 
           <li>
             <a
-              href="https://x.com/Alkaison/"
+              href="https://x.com/"
               title="Twitter"
               target="_blank"
               rel="noopener noreferrer"
